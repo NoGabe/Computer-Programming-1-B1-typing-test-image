@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Gabriel Mins portfolio
 
-You can use the [editor on GitHub](https://github.com/NoGabe/Computer-Programming-1-B1-typing-test-image/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+![Typing test image](https://user-images.githubusercontent.com/70347715/91493918-41bdd900-e875-11ea-8e18-de36d7ad2d8b.png)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
